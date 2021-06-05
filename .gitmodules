@@ -1,0 +1,3 @@
+[submodule "oliver-core"]
+	path = oliver-core
+	url = https://github.com/clementgerard1/oliver-core
